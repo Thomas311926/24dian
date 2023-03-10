@@ -1,0 +1,3 @@
+/Users/chenqi/CLionProjects/5716K/cmake-build-debug/CMakeFiles/5716K.dir
+/Users/chenqi/CLionProjects/5716K/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/chenqi/CLionProjects/5716K/cmake-build-debug/CMakeFiles/rebuild_cache.dir
